@@ -1,4 +1,4 @@
-### Privacy Policy
+# Privacy Policy
 
 We values your privacy. This app does not collect, store, or share any personal information.
 
